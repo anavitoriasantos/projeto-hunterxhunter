@@ -51,16 +51,14 @@ body {
     width: 70%;
     font-size: 18px;
     margin: 10px 15px;
-    
 }
 
 .container .descricao1 {
-    color: #a8adb7;
-    width: 85%;
-    font-size: 20px;
-    margin: 0px 65px 0px ;
-    text-align: center;
-    
+    text-align: justify; /* Justifica o texto */
+    color: #ffffff; /* Ajuste a cor se necessário */
+    margin: 0; /* Ajuste as margens se necessário */
+    padding: 0; /* Ajuste o padding se necessário */
+    max-width: 550px; /* Define uma largura máxima */
 }
 
 .container .botao-trailer {
