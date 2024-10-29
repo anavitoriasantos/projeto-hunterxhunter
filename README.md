@@ -26,4 +26,4 @@ Este site é uma plataforma dedicada aos fãs de *Hunter x Hunter* e aos interes
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/hunter-x-hunter-site.git
+   git clone https://https://github.com/anavitoriasantos/projeto-hunterxhunter
